@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+accelerate
+sentencepiece
+peft
+bitsandbytes
+python-dotenv
+pydantic
