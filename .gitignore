@@ -5,18 +5,46 @@ npm-debug.log
 # Python
 __pycache__/
 *.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
 .venv/
 venv/
 
-# Environment
+# Environment Variables
 .env
+.env.*
 
 # VS Code
 .vscode/
 
-# Model files
+# Logs
+*.log
+
+# Pytest / Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Model Files (if stored locally)
 *.pt
 *.pth
+*.bin
+*.safetensors
+*.gguf
+
+# Hugging Face Cache
+.cache/huggingface/
+huggingface/
 
 # OS
 .DS_Store
