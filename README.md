@@ -163,9 +163,9 @@ Open `frontend/index.html` directly in **Google Chrome** or serve it through a l
 
 ---
 
-## 👥 Contributors and There Contribution
+## 👥 Contributors 
 
-* **Kashish Pimpalshende** : Resume analysis module, Gemma-services module, Backend
+* **Kashish Pimpalshende** : Team leader, Resume analysis module, Gemma-services module, Backend
 * **Sanju Mandal** : Resume analysis module, Gemma-services module, Backend
 * **Disha Sakarkar** : Cheating_emotion _detection Module, Backend
 * **Treksha Pachadhare** : Cheating_emotion _detection Module, Backend
